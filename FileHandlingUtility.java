@@ -37,7 +37,7 @@ public class FileHandlingUtility {
                 case 4:
                     System.out.println("Exiting...");
                     scanner.close();
-                    System.exit(0);
+                    return;
                 default:
                     System.out.println("Invalid choice. Try again.");
             }
