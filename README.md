@@ -75,7 +75,7 @@ File handling is a fundamental skill in software development, applicable in vari
 ## Conclusion:
 This project provides a fundamental understanding of **Java's file handling capabilities**. It serves as a stepping stone for developers looking to work with file systems, text data, and basic storage solutions. By implementing these features, the project helps in developing essential programming skills applicable in **data storage, system logging, and configuration management**.
 
-#OUTPUT
+## OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/9f2aab3d-4866-4d74-b358-9e376883c228)
 
